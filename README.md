@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Akinniran OLUWATOSIN
 
+<p align="center">👨‍💻 Software Engineer | Passionate About Building Innovative Solutions 🚀</p>
 <!-- 
 **Tboy54321/tboy54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
