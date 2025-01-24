@@ -1,6 +1,14 @@
 ## Hi there 👋, I'm Akinniran OLUWATOSIN
 
 <p align="center"><strong>👨‍💻 Software Engineer | Passionate About Building Innovative Solutions 🚀</strong></p>
+
+- 🚀 Currently Building: AutoTrack – A web application where customers can track their vehicle's workshop status via auto-generated notifications.
+- 💡 Currently Learning: Django, Django REST Framework, and React Native to enhance my backend and frontend development skills.
+- 🤝 Open To: Gigs, projects, internships, and collaborations—let’s create something impactful together!
+- 📫 How to reach me akinniranoluwatosin22@gmail.com
+
+<h3>Connect with me: </h3>
+
 <!-- 
 **Tboy54321/tboy54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
