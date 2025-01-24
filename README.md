@@ -8,7 +8,9 @@
 - 📫 How to reach me akinniranoluwatosin22@gmail.com
 
 ### Connect with me:
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](www.linkedin.com/in/akinniran-oluwatosin) 
+<a href="www.linkedin.com/in/akinniran-oluwatosin">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+</a> 
 <!-- 
 **Tboy54321/tboy54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
