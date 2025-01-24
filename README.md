@@ -7,8 +7,8 @@
 - 🤝 Open To: Gigs, projects, internships, and collaborations—let’s create something impactful together!
 - 📫 How to reach me akinniranoluwatosin22@gmail.com
 
-<h3>Connect with me: </h3>
-
+### Connect with me:
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](www.linkedin.com/in/akinniran-oluwatosin) 
 <!-- 
 **Tboy54321/tboy54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
