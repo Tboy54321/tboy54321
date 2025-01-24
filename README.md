@@ -9,10 +9,10 @@
 
 ### Connect with me:
 <a href="www.linkedin.com/in/akinniran-oluwatosin">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
 </a> 
 <a href="akinniranoluwatosin22@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo_2023.png" alt="Gmail" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Gmail_Icon.png" alt="Gmail" width="30" height="30">
 </a>
 <!-- 
 **Tboy54321/tboy54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
