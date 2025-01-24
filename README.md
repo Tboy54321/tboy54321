@@ -21,28 +21,13 @@
 I am a passionate Software Engineer with a strong drive for creating innovative solutions and tackling complex challenges. My journey began with a deep interest in programming and has evolved through an intensive Software Engineering Program in 
 African Leadership Experience, where I gained valuable experience working on a variety of projects. I enjoy solving real-world problems through software and am currently focused on developing more solution driven projects. Always eager to learn and grow, I am open to opportunities that will allow me to contribute, collaborate, and further hone my skills.
 
-## 🚀 Highlights of My Journey
-#### 1️⃣ C Programming & Systems Concepts
-Built a simple shell in C, gaining hands-on experience in systems programming and understanding how operating systems interact with users.
+### 📂 Featured Projects
+Here are some of my projects:
 
-#### 2️⃣ Full-Stack Development
-Developed an AIRBNB Clone:
-Backend: Built using Flask, demonstrating proficiency in Python web frameworks.
-Frontend: Crafted with HTML, CSS, and JavaScript.
-Databases: Integrated with MySQL and PostgreSQL for robust data storage solutions.
+Simple Shell in C: A deep dive into low-level programming.
+AIRBNB Clone: A fully functional platform simulation with authentication and search capabilities.
+Expense Tracker App: A full-stack application for managing personal finances.
+DevOps Configuration Scripts: Scripts for server setup, load balancing, and security.
 
-#### 3️⃣ DevOps & Infrastructure
-Gained expertise in:
-BASH Scripting: Automated repetitive tasks and performed efficient system operations.
-Web Servers: Set up and managed NGINX.
-Load Balancing: Configured HAProxy for effective load distribution.
-Security: Applied SSH firewalls for secure access.
+### Languages and Tools:
 
-#### 4️⃣ Portfolio Project
-Built an Expense Tracker Web Application using:
-React Native for an intuitive user interface and seamless cross-platform performance.
-Focused on clean design, performance, and usability.
-
-#### 5️⃣ Ongoing Backend Development
-Continuously improving backend skills by exploring and developing projects using:
-Flask, Django, and FastAPI.
