@@ -1,3 +1,5 @@
+![Intro](./Intro.gif)
+---
 ## Hi there 👋, I'm Akinniran OLUWATOSIN
 
 <p align="center"><strong>👨‍💻 Software Engineer | Passionate About Building Innovative Solutions 🚀</strong></p>
