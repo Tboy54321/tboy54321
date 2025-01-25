@@ -4,7 +4,7 @@
 
 ---
 
-## Hi there 👋, I'm Akinniran OLUWATOSIN
+<h2 align="center"><strong>Hi there 👋, I'm Akinniran OLUWATOSIN</strong></h2>
 
 <p align="center"><strong>👨‍💻 Software Engineer | Passionate About Building Innovative Solutions 🚀</strong></p>
 
