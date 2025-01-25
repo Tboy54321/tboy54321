@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center"><strong>Hi there 👋, I'm Akinniran OLUWATOSIN</strong></h2>
+<h1 align="center"><strong>Hi there 👋, I'm Akinniran Oluwatosin</strong></h1>
 
 <p align="center"><strong>👨‍💻 Software Engineer | Passionate About Building Innovative Solutions 🚀</strong></p>
 
