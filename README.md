@@ -1,4 +1,6 @@
-![Intro](./Intro.gif)
+<div align="center">
+  <img src="./Intro.gif" alt="Description of GIF" width="400" />
+</div>
 ---
 ## Hi there 👋, I'm Akinniran OLUWATOSIN
 
