@@ -64,7 +64,7 @@ DevOps Configuration Scripts: Scripts for server setup, load balancing, and secu
   <img src="./flask.png" alt="Flask" width="60" height="60">
 </a>
 <a href="https://www.mysql.com/">
-  <img src="./mysql.git" alt="Gmail" width="60" height="60">
+  <img src="./mysql.gif" alt="Gmail" width="60" height="60">
 </a>
 <a href="https://www.postgresql.org/">
   <img src="./postgresql.png" alt="Gmail" width="60" height="60">
@@ -74,4 +74,7 @@ DevOps Configuration Scripts: Scripts for server setup, load balancing, and secu
 </a>
 <a href="https://nginx.org/en/">
   <img src="./nginx.png" alt="Gmail" width="60" height="60">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+  <img src="./HTML.png" alt="Gmail" width="60" height="60">
 </a>
