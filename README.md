@@ -37,31 +37,31 @@ DevOps Configuration Scripts: Scripts for server setup, load balancing, and secu
 
 ### Languages and Tools:
 <a href="https://www.python.org/">
-  <img src="./PYTHON.gif" alt="Gmail" width="60" height="60">
+  <img src="./PYTHON.gif" alt="python" width="60" height="60">
 </a>
 <a href="https://react.dev/">
-  <img src="./REACT.gif" alt="Gmail" width="30" height="30">
+  <img src="./REACT.gif" alt="REACT" width="60" height="60">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="./JS.gif" alt="Gmail" width="30" height="30">
+  <img src="./JS.gif" alt="JS" width="60" height="60">
 </a>
 <a href="https://git-scm.com/">
-  <img src="./GIT.gif" alt="Gmail" width="30" height="30">
+  <img src="./GIT.gif" alt="GIT" width="60" height="60">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="./CSS.gif" alt="Gmail" width="30" height="30">
+  <img src="./CSS.gif" alt="CSS" width="60" height="60">
 </a>
 <a href="https://github.com/">
-  <img src="./GITHUB.gif" alt="Gmail" width="30" height="30">
+  <img src="./GITHUB.gif" alt="GITHUB" width="60" height="60">
 </a>
 <a href="">
-  <img src="./VS_CODE.gif" alt="Gmail" width="30" height="30">
+  <img src="./VS_CODE.gif" alt="Gmail" width="60" height="60">
 </a>
 <a href="https://www.djangoproject.com/">
-  <img src="./django.png" alt="Gmail" width="30" height="30">
+  <img src="./django.png" alt="Django" width="60" height="60">
 </a>
 <a href="https://flask.palletsprojects.com/en/stable/">
-  <img src="./flask.png" alt="Gmail" width="60" height="60">
+  <img src="./flask.png" alt="Flask" width="60" height="60">
 </a>
 <a href="https://www.mysql.com/">
   <img src="./mysql.git" alt="Gmail" width="30" height="30">
