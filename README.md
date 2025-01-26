@@ -37,7 +37,7 @@ DevOps Configuration Scripts: Scripts for server setup, load balancing, and secu
 
 ### Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="./HTML.gif" alt="Gmail" width="30" height="30">
+  <img src="./HTML.gif" alt="Gmail" width="60" height="60">
 </a>
 <a href="https://www.python.org/">
   <img src="./PYTHON.gif" alt="Gmail" width="30" height="30">
@@ -64,7 +64,7 @@ DevOps Configuration Scripts: Scripts for server setup, load balancing, and secu
   <img src="./django.png" alt="Gmail" width="30" height="30">
 </a>
 <a href="https://flask.palletsprojects.com/en/stable/">
-  <img src="./flask.png" alt="Gmail" width="30" height="30">
+  <img src="./flask.png" alt="Gmail" width="60" height="60">
 </a>
 <a href="https://www.mysql.com/">
   <img src="./mysql.git" alt="Gmail" width="30" height="30">
