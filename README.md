@@ -36,4 +36,45 @@ Expense Tracker App: A full-stack application for managing personal finances.
 DevOps Configuration Scripts: Scripts for server setup, load balancing, and security.
 
 ### Languages and Tools:
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="./HTML.gif" alt="Gmail" width="30" height="30">
+</a>
+<a href="https://www.python.org/">
+  <img src="./PYTHON.gif" alt="Gmail" width="30" height="30">
+</a>
+<a href="https://react.dev/">
+  <img src="./REACT.gif" alt="Gmail" width="30" height="30">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="./JS.gif" alt="Gmail" width="30" height="30">
+</a>
+<a href="https://git-scm.com/">
+  <img src="./GIT.gif" alt="Gmail" width="30" height="30">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="./CSS.gif" alt="Gmail" width="30" height="30">
+</a>
+<a href="https://github.com/">
+  <img src="./GITHUB.gif" alt="Gmail" width="30" height="30">
+</a>
+<a href="">
+  <img src="./VS_CODE.gif" alt="Gmail" width="30" height="30">
+</a>
+<a href="https://www.djangoproject.com/">
+  <img src="./django.png" alt="Gmail" width="30" height="30">
+</a>
+<a href="https://flask.palletsprojects.com/en/stable/">
+  <img src="./flask.png" alt="Gmail" width="30" height="30">
+</a>
+<a href="https://www.mysql.com/">
+  <img src="./mysql.git" alt="Gmail" width="30" height="30">
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="./postgresql.png" alt="Gmail" width="30" height="30">
+</a>
+<a href="https://www.postman.com/">
+  <img src="./postman.png" alt="Gmail" width="30" height="30">
+</a>
+<a href="https://nginx.org/en/">
+  <img src="./nginx.png" alt="Gmail" width="30" height="30">
+</a>
