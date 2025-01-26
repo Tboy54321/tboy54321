@@ -36,9 +36,6 @@ Expense Tracker App: A full-stack application for managing personal finances.
 DevOps Configuration Scripts: Scripts for server setup, load balancing, and security.
 
 ### Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="./HTML.gif" alt="Gmail" width="100" height="100">
-</a>
 <a href="https://www.python.org/">
   <img src="./PYTHON.gif" alt="Gmail" width="30" height="30">
 </a>
