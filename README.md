@@ -37,7 +37,7 @@ DevOps Configuration Scripts: Scripts for server setup, load balancing, and secu
 
 ### Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="./HTML.gif" alt="Gmail" width="60" height="60">
+  <img src="./HTML.gif" alt="Gmail" width="100" height="100">
 </a>
 <a href="https://www.python.org/">
   <img src="./PYTHON.gif" alt="Gmail" width="30" height="30">
