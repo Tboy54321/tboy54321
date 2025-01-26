@@ -64,14 +64,14 @@ DevOps Configuration Scripts: Scripts for server setup, load balancing, and secu
   <img src="./flask.png" alt="Flask" width="60" height="60">
 </a>
 <a href="https://www.mysql.com/">
-  <img src="./mysql.git" alt="Gmail" width="30" height="30">
+  <img src="./mysql.git" alt="Gmail" width="60" height="60">
 </a>
 <a href="https://www.postgresql.org/">
-  <img src="./postgresql.png" alt="Gmail" width="30" height="30">
+  <img src="./postgresql.png" alt="Gmail" width="60" height="60">
 </a>
 <a href="https://www.postman.com/">
-  <img src="./postman.png" alt="Gmail" width="30" height="30">
+  <img src="./postman.png" alt="Gmail" width="60" height="60">
 </a>
 <a href="https://nginx.org/en/">
-  <img src="./nginx.png" alt="Gmail" width="30" height="30">
+  <img src="./nginx.png" alt="Gmail" width="60" height="60">
 </a>
