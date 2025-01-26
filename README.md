@@ -37,7 +37,7 @@ DevOps Configuration Scripts: Scripts for server setup, load balancing, and secu
 
 ### Languages and Tools:
 <a href="https://www.python.org/">
-  <img src="./PYTHON.gif" alt="Gmail" width="30" height="30">
+  <img src="./PYTHON.gif" alt="Gmail" width="60" height="60">
 </a>
 <a href="https://react.dev/">
   <img src="./REACT.gif" alt="Gmail" width="30" height="30">
