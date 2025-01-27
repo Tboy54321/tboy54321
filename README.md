@@ -8,7 +8,7 @@
 
 <p align="center"><strong>👨‍💻 Software Engineer | Passionate About Building Innovative Solutions 🚀</strong></p>
 
-- 🚀 Currently Building: AutoTrack – A web application where customers can track their vehicle's workshop status via auto-generated notifications.
+- 🚀  I’m currently working on Becoming A Better Software Developer
 - 💡 Currently Learning: Django, Django REST Framework, and React Native to enhance my backend and frontend development skills.
 - 🤝 Open To: Gigs, projects, internships, and collaborations—let’s create something impactful together!
 - 📫 How to reach me akinniranoluwatosin22@gmail.com
